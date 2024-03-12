@@ -1,0 +1,8 @@
+git clon https://github.com/Trasportes/Crisanto.com.github.en.
+cd trasnportes.github.en.
+echo "hola mundo" > index.html
+git añadir - todo
+
+git commit -m "Compromiso inicial"
+
+git push -u origen principal
